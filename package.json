@@ -1,0 +1,19 @@
+{
+  "name": "projet_icecream",
+  "version": "1.0.0",
+  "main": "echo \"# icecream\" >> README.md",
+  "scripts": {
+    "test": "ADME.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseyn25/icecream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sseyn25/icecream/issues"
+  },
+  "homepage": "https://github.com/sseyn25/icecream#readme",
+  "description": ""
+}
